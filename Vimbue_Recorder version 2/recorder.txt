@@ -1,6 +1,0 @@
-Manifest-Version: 2.0    
-Created-By: Vimbue
-Built-By: Sumedh Masulkar
-Main-Class: src/screenRecorder
-Class-Path: lib/jmf.jar
-

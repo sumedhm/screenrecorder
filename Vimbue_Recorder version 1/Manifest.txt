@@ -1,7 +1,0 @@
-Manifest-Version: 1.0  
-Ant-Version: Apache Ant 1.7.0  
-Created-By: Vimbue
-Built-By: Sumedh Masulkar
-Main-Class: src/screenRecorder
-Class-Path: lib/jmf.jar
-
